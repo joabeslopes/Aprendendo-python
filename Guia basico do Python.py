@@ -24,13 +24,30 @@ print(x)
 
 #   Vamos fazer contas usando variáveis:
 soma = 3+3
+
 print("3 + 3 é:", soma)
 
 subtracao = 15-8
+
 print("15 - 8 é:", subtracao)
 
+#*************************
 divisao = 14/2
+
 print("14/2 é:", divisao)
+
+#   Note que isso é uma divisão normal, mas também existem outros 2 tipos de divisão:
+
+divisaoInteira = 15 // 2
+
+print("15 // 2 é:", divisaoInteira)
+#   Essa divisão vai "jogar fora" o resto, mostrando só o resultado redondo.
+
+divisaoResto = 15 % 2
+
+print("15 % 2 é:", divisaoResto)
+#   Essa divisão é o contrário da anterior, vai mostrar somente o resto.
+#*************************
 
 multiplicacao = 5*2
 print("5*2 é:", multiplicacao)
