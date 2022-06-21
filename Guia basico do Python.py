@@ -4,7 +4,7 @@
 
 #   Recomendo fazer arquivos para os tópicos, um por vez, e ir executando para ver na prática o que acontece.
 
-#   Note que esses comentários em vermelho não são executados pelo python, são apenas para leitura.
+#   Note que esses comentários aqui não são executados pelo python, são apenas para leitura.
 
 #---------------------------------------------------------------------------------------------------------#
 
