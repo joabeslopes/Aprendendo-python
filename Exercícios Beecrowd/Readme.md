@@ -2,6 +2,6 @@
 
 Esses arquivos são resoluções dos exercícios correspondentes na plataforma Beecrowd.
 
-Para ver o exercício, basta entrar no site e buscar o número do exercício.
+Para pesquisar os exercícios basta se cadastrar na plataforma, é muito boa para praticar programação.
 
-Link: https://www.beecrowd.com.br/judge/en/forum
+Link: https://www.beecrowd.com.br/judge/pt/register
